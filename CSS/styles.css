@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+  }
+ 
+  img {
+    float: left;
+  }
+  .sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
+
+.parrot {
+    font-style: italic;
+}
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: royalblue;
+  }
+  p {
+    color: green;
+  }
+  body {
+    background-color: goldenrod;
+  }
+  img {
+      background-color: blueviolet;
+  }
+  ul {
+      color: green; 
+  }
+  h3 {
+    font-style: italic;
+    text-align: center;
+    color: royalblue;
+  }
